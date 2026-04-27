@@ -1,1 +1,1 @@
-# Reolution-General_Coding-Week-2
+# Resolution-General_Coding-Week-2
